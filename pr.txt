@@ -1,0 +1,4 @@
+1. + kolom jenis kelamin
+2. + table kelas
+3. table users tambah kolom kelas
+4. relasi users > kelas
